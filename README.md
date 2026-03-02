@@ -1,7 +1,7 @@
 ```
-╔══════════════════════════════════════════════════════════════════════╗
-║  AR_TERMINAL v2.0  |  LIVE  |  Lima, Peru  |  UTC-5               ║
-╚══════════════════════════════════════════════════════════════════════╝
+                          ╔══════════════════════════════════════════════════════════════════════╗
+                          ║           AR_TERMINAL  |  ● LIVE  |  Lima, Peru  |  UTC-5            ║
+                          ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
@@ -28,18 +28,12 @@ Senior Software Engineer with **4 years of experience** specialized in backend d
 > ls STACK/
 ```
 
-**[ Backend ]**
-`Python` `JavaScript` `Go` `Flask` `Express` `Node.js` `REST APIs` `OAuth 2.0`
-
-**[ Cloud & DevOps ]**
-`AWS Lambda` `API Gateway` `EC2` `DynamoDB` `ECS` `EKS` `S3` `CloudFormation`
-`Docker` `Kubernetes` `CI/CD` `GitHub Actions` `Jenkins`
-
-**[ Databases ]**
-`PostgreSQL` `MongoDB` `DynamoDB`
-
-**[ Frontend (Complementary) ]**
-`React` `TypeScript` `Astro` `TailwindCSS` `Vite`
+| Layer | Technologies |
+|---|---|
+| **Backend** | `Python` `JavaScript` `Go` `Flask` `Express` `Node.js` `REST APIs` `OAuth 2.0` |
+| **Cloud & DevOps** | `AWS Lambda` `API Gateway` `EC2` `DynamoDB` `ECS` `EKS` `S3` `CloudFormation` `Docker` `Kubernetes` `CI/CD` `GitHub Actions` `Jenkins` |
+| **Databases** | `PostgreSQL` `MongoDB` `DynamoDB` |
+| **Frontend** | `React` `TypeScript` `Astro` `TailwindCSS` `Vite` |
 
 ---
 
@@ -47,15 +41,21 @@ Senior Software Engineer with **4 years of experience** specialized in backend d
 > ls PROJECTS/
 ```
 
-**[ SYS ] DerLinks** — *Link Management Platform*
+**`[ SYS ]`** **DerLinks** — *Link Management Platform*
+```
 > Full-stack CRUD · Auth · Password Encryption · Session Management · CORS
-> `Node.js` `Express` `PostgreSQL` `React` `Vite` · Deploy: Vercel + Railway
+> Stack: Node.js · Express · PostgreSQL · React · Vite
+> Deploy: Vercel + Railway
+```
 
-<!--
-# (url)**[ SYS ] API-Flask Core** — *REST API with Swagger Documentation*
-> RESTful API for task management with auto-generated Swagger UI
-> `Python` `Flask` `Flask-RESTx`
--->
+**`[ PKG ]`** **[dkmio](https://pypi.org/project/dkmio/)** — *OKM for AWS DynamoDB in Python*
+```
+> Efficient Object-Key Mapping with fluent API for DynamoDB
+> Expression building · Attribute escaping · Pagination · Error mapping
+> Queries · Scans · Batch ops · ACID transactions · Conditional writes · TTL
+> pip install dkmio
+```
+
 ---
 
 ```
@@ -66,8 +66,8 @@ Senior Software Engineer with **4 years of experience** specialized in backend d
 ✔  -70%  system monitoring detection time via custom monitoring solution
 ✔  -85%  manual setup time through process automation
 ✔  25+   concurrent requests per Lambda with auto-scaling
-✔  0     downtime on Odoo v14 → v16 enterprise migrations
-✔  5+    junior developers mentored in clean architecture & DevOps
+✔   0    downtime on Odoo v14 → v16 enterprise migrations
+✔   5+   junior developers mentored in clean architecture & DevOps
 ```
 
 ---
@@ -86,15 +86,8 @@ WEB:   https://antoniorodriguez.dev
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luis-antonio-rodriguez-vega-263a3a205)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-%2300FF41.svg?style=for-the-badge&logo=firefox&logoColor=black)](https://antoniorodriguez.dev)
 
----
-
-<div align="center">
-
 ```
 [ END OF FILE ]  //  github.com/Antonipo
 ```
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Antonipo&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antonipo&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=ffffff)
 
 </div>
